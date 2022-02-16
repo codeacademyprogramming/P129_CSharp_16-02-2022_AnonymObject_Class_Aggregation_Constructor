@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\bin\Debug\netcoreapp3.1\P129AnonymObject.exe
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\bin\Debug\netcoreapp3.1\P129AnonymObject.deps.json
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\bin\Debug\netcoreapp3.1\P129AnonymObject.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\bin\Debug\netcoreapp3.1\P129AnonymObject.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\bin\Debug\netcoreapp3.1\P129AnonymObject.dll
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\bin\Debug\netcoreapp3.1\P129AnonymObject.pdb
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\obj\Debug\netcoreapp3.1\P129AnonymObject.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\obj\Debug\netcoreapp3.1\P129AnonymObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\obj\Debug\netcoreapp3.1\P129AnonymObject.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\obj\Debug\netcoreapp3.1\P129AnonymObject.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\obj\Debug\netcoreapp3.1\P129AnonymObject.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\obj\Debug\netcoreapp3.1\P129AnonymObject.dll
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\obj\Debug\netcoreapp3.1\P129AnonymObject.pdb
+C:\Users\memme\Desktop\P129\Task\P129AnonymObject\obj\Debug\netcoreapp3.1\P129AnonymObject.genruntimeconfig.cache
