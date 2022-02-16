@@ -1,0 +1,1 @@
+# P129_CSharp_16-02-2022_AnonymObject_Class_Aggregation_Constructor
